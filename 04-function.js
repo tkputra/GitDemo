@@ -2,33 +2,33 @@ function sum(a,b){
    return a + b;
 }
 
-// function product(a,b){
-//     return a * b;
-// }
-// const bigProduct = product(12345,34567);
+function product(a,b){
+    return a * b;
+}
+const bigProduct = product(12345,34567);
 
-// console.log(sum(10,10));
-// console.log(product(12,10));
-// console.log(bigProduct);
+console.log(sum(10,10));
+console.log(product(12,10));
+console.log(bigProduct);
 
 
-//setTimeout(function() {
- //   console.log("1..");
-//},1000);
+setTimeout(function() {
+   console.log("1..");
+},1000);
 
-//setTimeout(function() {
- //   console.log("2..");
-//},2000);
+setTimeout(function() {
+   console.log("2..");
+},2000);
 
-//setTimeout(function() {
- //   console.log("hey your rock!!");
-//},3000);
+setTimeout(function() {
+   console.log("hey your rock!!");
+},3000);
 
-// setTimeout(() => console.log("1.."),1000);
+setTimeout(() => console.log("1.."),1000);
 
-// setTimeout(() => console.log("2.."),2000);
+setTimeout(() => console.log("2.."),2000);
 
-// setTimeout(() => console.log("Hey your rcok!!.."),3000);
+setTimeout(() => console.log("Hey your rcok!!.."),3000);
 
 const favoriteCookies = [
     "chocolate chip", //0

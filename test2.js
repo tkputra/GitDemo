@@ -11,11 +11,11 @@ function findLongestWord(str){
     }
     return longestword
 }
-//console.log(longestword)
+console.log(longestword)
 
 
 
-// var tri = 'Tri kartika putra'
-// var triSplit = tri.split(' ')
-// console.log(triSplit);
-// console.log(triSplit.length)
+var tri = 'Tri kartika putra'
+var triSplit = tri.split(' ')
+console.log(triSplit);
+console.log(triSplit.length)
