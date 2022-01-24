@@ -16,7 +16,7 @@ function hasilMod(panjang){
 
 var x = hasilMod(panjang)
 
-if (x == 0) {
+if (x == 1) {
     console.log(input, 'adalah genap')
 }
 

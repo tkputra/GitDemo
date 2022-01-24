@@ -15,7 +15,7 @@ console.log(longestword)
 
 
 
-var tri = 'Tri kartika putra'
+var tri = 'Tkp'
 var triSplit = tri.split(' ')
 console.log(triSplit);
 console.log(triSplit.length)
